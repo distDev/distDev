@@ -1,4 +1,4 @@
-Hey, I'm Dmitry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<strong>Hey, I'm Dmitry</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
 ### Tech Stack
 
@@ -12,6 +12,8 @@ Hey, I'm Dmitry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 - 👨‍💻 I work as a freelancer, and sometimes I do well.
 - 🌱 In my free time I like to make clones of interesting apps
 - 📫 How to reach me <a href="https://t.me/Distcom">@Distcom</a> and d.staver@bk.ru
+
+### Some statistics 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distDev&layout=compact)](https://github.com/distDev/github-readme-stats)
 
