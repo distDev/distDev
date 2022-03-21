@@ -2,8 +2,9 @@ Hey, I'm Dmitry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy
 
 ### Tech Stack
 
-- 🛠 Lang & Framework: React, Javascript/TypeScript
-- 🔗 State: Redux/MobX
+- 🛠 Lang & Framework: React/NextJS, Javascript/TypeScript
+- 🔗 State: Redux/MobX/Recoil
+- 👚 Styles: CSS/SCSS
 - ⛏ Interest: Vue, React Native
 
 ### About me
