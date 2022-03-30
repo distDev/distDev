@@ -4,7 +4,7 @@
 
 - 🛠 Lang & Framework: React/NextJS, Javascript/TypeScript
 - 🔗 State: Redux/MobX/Recoil
-- 👚 Styles: CSS/SCSS
+- 👚 Styles: CSS/SCSS/Styled Components
 - ⛏ Interest: Vue, React Native
 
 ### About me
