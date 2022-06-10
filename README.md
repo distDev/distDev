@@ -1,4 +1,4 @@
-<strong>Hey, I'm Dmitry</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
+<strong>Hey, I'm Dmitry</strong>👋
 
 ### Tech Stack
 
