@@ -2,7 +2,7 @@
 
 ### Tech Stack
 
-- 🛠 Lang & Framework: Javascript/TypeScript
+- 🛠 Lang: Javascript/TypeScript
 - 🤖 Framework: React/NextJS, Vue/NuxtJS
 - 🔗 State: Redux/MobX/Pinia/Recoil
 - 👚 Styles: CSS/SCSS/Styled Components
