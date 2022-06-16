@@ -2,10 +2,11 @@
 
 ### Tech Stack
 
-- 🛠 Lang & Framework: React/NextJS, Javascript/TypeScript
-- 🔗 State: Redux/MobX/Recoil
+- 🛠 Lang & Framework: Javascript/TypeScript
+- 🤖 Framework: React/NextJS, Vue/NuxtJS
+- 🔗 State: Redux/MobX/Pinia/Recoil
 - 👚 Styles: CSS/SCSS/Styled Components
-- ⛏ Interest: Vue, React Native
+- ⛏ Interest: React Native, Python
 
 ### About me
 
