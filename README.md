@@ -18,8 +18,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distDev&layout=compact)](https://github.com/distDev/github-readme-stats)
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=distcom&badge&colormode=dark_mode)
+### Codewars
+<a href="https://www.codewars.com/users/distcom">My profile on codewars</a>
 
+![](https://github-readme-codewars-stats.herokuapp.com/api/?username=distcom&badge&colormode=dark_mode)
 
 <!---
 distDev/distDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
