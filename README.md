@@ -10,8 +10,9 @@
 
 ### About me
 
-- 👨‍💻 I work as a freelancer, and sometimes I do well.
-- 🌱 In my free time I like to make clones of interesting apps
+- 👨‍💻 I work as a freelancer and sometimes on long projects
+- 🔮 Sometimes I make copies of sites that I like
+- 🌃 In my free time I like to learn interesting technologies, which then do not use
 - 📫 How to reach me <a href="https://t.me/Distcom">@Distcom</a> and d.staver@bk.ru
 
 ### Some statistics 
