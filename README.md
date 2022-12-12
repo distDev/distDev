@@ -22,7 +22,7 @@
 ### Codewars
 <a href="https://www.codewars.com/users/distcom">My profile on codewars</a>
 
-![](https://github-readme-codewars-stats.herokuapp.com/api/?username=distcom&badge&colormode=dark_mode)
+[![](https://github-readme-codewars-stats.herokuapp.com/api/?username=distcom&badge&colormode=dark_mode)](https://www.codewars.com/users/distcom/badges/large)
 
 <!---
 distDev/distDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
