@@ -4,7 +4,7 @@
 
 - 🛠 Lang: Javascript/ TypeScript
 - 🤖 Framework: React/ NextJS, Vue/ NuxtJS
-- 🔗 State: Redux/ MobX/ Pinia/ Recoil
+- 🔗 State: Redux/ MobX/ Vuex/ Pinia/ Recoil
 - 👚 Styles: CSS/ SCSS/ Tailwind/ Styled Components
 - ⛏ Interest: React Native, Python
 
