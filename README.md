@@ -20,6 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distDev&layout=compact)](https://github.com/distDev/github-readme-stats)
 
 ### Codewars
+![image](https://www.codewars.com/users/distcom/badges/large)
 <a href="https://www.codewars.com/users/distcom">My profile on codewars</a>
 
 
