@@ -10,7 +10,6 @@
 
 ### About me
 
-- 👨‍💻 I work as a freelancer and sometimes on long projects
 - 🌃 In my free time I like to learn interesting technologies, which then do not use
 - 📫 How to reach me <a href="https://t.me/Distcom">@Distcom</a> and d.staver@bk.ru
 
